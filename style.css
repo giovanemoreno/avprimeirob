@@ -16,6 +16,13 @@ body{
     .botao:hover {
         background-color: black;
     }
+    .cabecario{
+        background-color: black;
+        padding: 20px;
+        width: 100;
+        border-style: groove;
+        border-color: rgb(255, 0, 0);
+    }
     p {
         color: black;
         text-align: center;
